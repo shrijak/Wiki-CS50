@@ -8,7 +8,7 @@ google-pasta==0.2.0
 grpcio==1.29.0
 gunicorn==19.9.0
 h5py==2.10.0
-joblib==0.15.1
+joblib==1.2.0
 Markdown==3.2.2
 markdown2==2.3.9
 numpy==1.18.4
